@@ -1,3 +1,2 @@
-# app-ads.txt for PushRogue (L-406, L-513). Goes at the root of the developer website.
-# Fill the line below with the AdMob publisher id from the owner's AdMob account (Account > Settings), then remove this comment block.
-# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+# app-ads.txt for PushRogue (L-406, L-513): the authorized sellers of its ad inventory.
+google.com, pub-9143644796774981, DIRECT, f08c47fec0942fa0
